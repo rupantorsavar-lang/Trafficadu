@@ -1,0 +1,8 @@
+{
+  "name": "Trafficadu - Premium Advertising Network",
+  "description": "Multisource Online Advertising Platform for Performance Marketing with Advertiser & Publisher dashboards, ad campaign management, deposit gateways, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
